@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Octvl
+- ## 👋 Hi, I’m @Octvl
 - 👀 I’m interested in artificial intelligence, philosophy, and photography.
 - 🌱 I’m currently learning containerization, server hosting, and web development.
 - 💞️ I’m looking to collaborate on tech startups, non-profit organizations, and other business endeavors. 
